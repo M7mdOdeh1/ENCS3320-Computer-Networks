@@ -1,0 +1,78 @@
+body {
+    background-color: white;
+    font-family: Comic Sans MS;
+    background-image: url('k4.jpg');
+    background-size: cover;
+
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+.intro {
+    padding-left: 25px;
+    font-size: 20px;
+    color: red;
+    -webkit-text-stroke: 1px red;
+    text-stroke: 1px red;
+
+}
+
+.student-box {
+    border: 2px solid gray;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 5px;
+    border-color: orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    font-family: Comic Sans MS;
+    color: orange;
+    text-align: center;
+    -webkit-text-stroke: 1px orange;
+    text-stroke: 1px orange;
+
+}
+
+.bluecolor {
+    color: blue;
+    font-family: Comic Sans MS;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    float: right;
+    background-color: rgba(255, 0, 0, 0.2);
+}
+
+a {
+
+    text-decoration: none;
+    color: blue;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+li {
+    padding-left: 7px;
+    color: orangered
+}
+
+ul {
+    padding-top: 30px;
+    padding-right: 200px;
+    float: left;
+
+}
+
+a {
+    color: orangered;
+
+
+}

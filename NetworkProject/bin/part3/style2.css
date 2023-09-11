@@ -1,0 +1,27 @@
+body {
+  background-color: white;
+  font-family: Comic Sans MS;
+  background-image: url('k5.jpg');
+  background-size: cover;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  border: solid 2px black;
+}
+
+p {
+  text-decoration: none;
+  color: blue;
+}
+
+a {
+  text-decoration: underline;
+  color: red;
+}
